@@ -26,6 +26,6 @@ After some epochs and tuning the model to work well with our dataset, results we
 
 
 # The application
-After we finish the model we upload as a tflite file it in the purpose to integrate it in the Flutter code, and finally 
+After we finish the model we upload it as a tflite file in the purpose to integrate it in the Flutter code, and finally 
 we get the newt result:
 ![test1](https://user-images.githubusercontent.com/80888688/207585776-14b75700-d84d-4dd8-89af-4cf22b7750e0.jpg)
