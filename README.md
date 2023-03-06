@@ -21,7 +21,7 @@ we found that there are many emotions a child can express,but in our model we de
 - Happiness
 - Anxiety and Depression
 - Anger and Violence
-After some epochs and tuning the model to work well with our dataset, results were good, reached an accuracy of 87%!
+After some epochs and tuning the model to work well with our dataset, results were good, reached an accuracy of 80%!
 ![cpt](https://user-images.githubusercontent.com/80888688/207592278-f78204f9-7afc-4e33-a907-cdcd7aeac3b4.jpg)
 
 
